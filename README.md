@@ -1,1 +1,1 @@
-# social-app
+# client-side repo
